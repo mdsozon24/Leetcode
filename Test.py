@@ -1,2 +1,2 @@
-n = '1100'
-print(int(n,2))
+n = 'sozon'
+print(n[-5:])
